@@ -41,3 +41,4 @@ for col in df:
     print([col])
     print(df[col].unique())
 '
+(   https://github.com/JdGithub0112/Jordan-Davis---Portfolio/blob/main/project1_DataInfo.png)
