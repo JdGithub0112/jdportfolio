@@ -11,12 +11,14 @@ Build and design our analytical products starting with group-based interviews to
 
 Maintained and documented metadata for over 50 unique metrics and measurements across our analytic products. The data stems from eight different business lines and over 35 points of contact within areas including but not limited to Federal Reserve Operations, Cybersecurity, and Customer Satisfaction.
 Perform qualitative sentiment analysis on Incident and Change descriptions to better equip leadership with context to why certain incidents occur, and how we can best avoid them as a business moving forward.
-
+'
 """
 Before doing any analysis work, I run two functions len and info to grab the
 high-level information neeeded to get to know the structure and size of the dataset 
 and field data types I'll be working with'
 """
+
+
 
 print(len(df))
 print(df.info())
@@ -37,3 +39,4 @@ for col in df:
     print("")
     print([col])
     print(df[col].unique())
+'
