@@ -12,18 +12,28 @@ Build and design our analytical products starting with group-based interviews to
 Maintained and documented metadata for over 50 unique metrics and measurements across our analytic products. The data stems from eight different business lines and over 35 points of contact within areas including but not limited to Federal Reserve Operations, Cybersecurity, and Customer Satisfaction.
 Perform qualitative sentiment analysis on Incident and Change descriptions to better equip leadership with context to why certain incidents occur, and how we can best avoid them as a business moving forward.
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
+"""
+Before doing any analysis work, I run two functions len and info to grab the
+high-level information neeeded to get to know the structure and size of the dataset 
+and field data types I'll be working with'
+"""
 
-df = pd.read_csv("netflix_titles.csv")
-
-#General information of the csv file
+print(len(df))
 print(df.info())
 
-#I created a varirable 'percent_missing' to show the percent of nuill values 
-percent_missing = df.isnull().sum()*100/len(df)
-print(percent_missing)
 
-#Spot checking the percent missing value for the 'Director' field
-#print(round(6173/8807, 2))
+"""
+I wanted to know mor abaout the parental leveel of education field and did
+some exploration here
+"""
+#print('parental level of education')
+#print(df['parental level of education'].unique())
+
+"""
+Using 'for' we can iterate through every column and get their unique values
+I've added the extra line and column name for better usability
+"""
+for col in df:
+    print("")
+    print([col])
+    print(df[col].unique())
