@@ -1,11 +1,3 @@
-Jordan Davis Python & R Portfolio
-Project 1 -
-Project 2 - 
-Project 3 - 
-Project 4 - 
-
-
-
 # Project 1: New Covid-19 Cases in the United States
 Build and design our analytical products starting with group-based interviews to understand the business need, then leveraging SQL and Python for data exploration and manipulation into readable forms. Visualizing the data into automated Tableau Server dashboards to be continuously leveraged by customers. 
 
