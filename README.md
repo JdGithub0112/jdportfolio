@@ -1,9 +1,11 @@
-# Project 1: New Covid-19 Cases in the United States
+# Jordan Davis' Python Portfolio
+Please find below all of my Python projects. I cover five aspects of data analysis and data science. Explaratory Data Analysis (cleaning & wrangling, Data Visuazliation, something something something
+<br>
+* [LinkedIn](https://www.linkedin.com/in/jordandavis0112/)
+<br>
+* [Resume]()
+<br>
+### Project 1: New Covid-19 Cases in the United States
 Build and design our analytical products starting with group-based interviews to understand the business need, then leveraging SQL and Python for data exploration and manipulation into readable forms. Visualizing the data into automated Tableau Server dashboards to be continuously leveraged by customers. 
-
-Maintained and documented metadata for over 50 unique metrics and measurements across our analytic products. The data stems from eight different business lines and over 35 points of contact within areas including but not limited to Federal Reserve Operations, Cybersecurity, and Customer Satisfaction.
-Perform qualitative sentiment analysis on Incident and Change descriptions to better equip leadership with context to why certain incidents occur, and how we can best avoid them as a business moving forward.
-
-Test 2
 
 ![New Covid-19 Cases in the USA](https://github.com/JdGithub0112/Jordan-Davis---Portfolio/blob/main/images/newCovidCases_USA.png)
