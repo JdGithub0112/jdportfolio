@@ -4,4 +4,4 @@ Build and design our analytical products starting with group-based interviews to
 Maintained and documented metadata for over 50 unique metrics and measurements across our analytic products. The data stems from eight different business lines and over 35 points of contact within areas including but not limited to Federal Reserve Operations, Cybersecurity, and Customer Satisfaction.
 Perform qualitative sentiment analysis on Incident and Change descriptions to better equip leadership with context to why certain incidents occur, and how we can best avoid them as a business moving forward.
 
-![New Covid-19 Cases in the USA](C:\\sers/Matt/Desktop/Portfolio/newCovidCases_USA.png)
+![New Covid-19 Cases in the USA](C:\\Users/Matt/Desktop/Portfolio/newCovidCases_USA.png)
