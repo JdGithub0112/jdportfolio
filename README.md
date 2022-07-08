@@ -6,4 +6,4 @@ Perform qualitative sentiment analysis on Incident and Change descriptions to be
 
 Test 2
 
-![New Covid-19 Cases in the USA](C://Users/Matt/Desktop/Portfolio/newCovidCases_USA.png)
+![New Covid-19 Cases in the USA](https://github.com/JdGithub0112/Jordan-Davis---Portfolio/blob/main/images/newCovidCases_USA.png)
