@@ -5,6 +5,8 @@ Please find below all of my Python projects. I cover five aspects of data analys
 * [Resume](https://github.com/JdGithub0112/Jordan-Davis---Portfolio/blob/main/JordanDavis_Resume_2022.pdf)
 
 ### Project 1: New Covid-19 Case Count and their relation to GDP
-Build and design our analytical products starting with group-based interviews to understand the business need, then leveraging SQL and Python for data exploration and manipulation into readable forms. Visualizing the data into automated Tableau Server dashboards to be continuously leveraged by customers. 
+Question/Problem Statement:
+
+*In statistics, linear regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables). - wikipedia*
 
 ![New Covid-19 Cases in the USA](https://github.com/JdGithub0112/Jordan-Davis---Portfolio/blob/main/images/newCovidCases_USA.png)
