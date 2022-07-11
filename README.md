@@ -4,7 +4,7 @@ Please find below all of my Python projects. I cover five aspects of data analys
 * [LinkedIn](https://www.linkedin.com/in/jordandavis0112/)
 * [Resume](https://github.com/JdGithub0112/Jordan-Davis---Portfolio/blob/main/JordanDavis_Resume_2022.pdf)
 
-### Project 1: New Covid-19 Cases in the United States
+### Project 1: New Covid-19 Case Count and their relation to GDP
 Build and design our analytical products starting with group-based interviews to understand the business need, then leveraging SQL and Python for data exploration and manipulation into readable forms. Visualizing the data into automated Tableau Server dashboards to be continuously leveraged by customers. 
 
 ![New Covid-19 Cases in the USA](https://github.com/JdGithub0112/Jordan-Davis---Portfolio/blob/main/images/newCovidCases_USA.png)
