@@ -21,7 +21,8 @@ In oder to merge the two tables, I performed a left join on the 'Country' field 
 ![Image Detail](images/Project1_fig1.png)
 Test2
 
-### Project 1: Craigslist Cars - a linear regression approach
+## [Project 1: Craigslist Cars](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/project1_LinearRegression.py)
+##### *a linear regression approach*
 Question/Problem Statement:
 
 *In statistics, linear regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables). - wikipedia*
