@@ -6,6 +6,8 @@ Please find below all of my Python projects. I cover five aspects of data analys
 
 
 ### Pandas Contempency - wrangling, joining, and cleaning data for analysis
+In this project I wanted to demonstrate my contempency on using Pandas for organizing and cleaning my data to end up with a dataframe for analysis. In this scenario, I wanted to learn how to scrape data from the web to have up-to-date information for my plots. The data in question comes from the World Health Organization and displays Covid cases/deaths data since early 2020 (cadence for update is everyday).
+
 
 ### Project 1: Craigslist Cars - a linear regression approach
 Question/Problem Statement:
