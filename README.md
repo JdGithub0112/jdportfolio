@@ -20,7 +20,7 @@ In oder to merge the two tables, I performed a left join on the 'Country' field 
 *Excerpt from Code (pandasProject_CovidCaseData.py)*
 
 `df_Continents.rename(columns = {'Country or Area' : 'Country'}, inplace = True)
-df_Final = df.merge(df_Continents, on='Country', how='left')`
+ df_Final = df.merge(df_Continents, on='Country', how='left')`
 
 
 ![Image Detail](images/Project1_fig1.png)
