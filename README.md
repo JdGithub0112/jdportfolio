@@ -21,7 +21,7 @@ In oder to merge the two tables, I performed a left join on the 'Country' field 
 
 
 ![Image Detail](images/Project1_fig1.png)
-something
+Test2
 
 ### Project 1: Craigslist Cars - a linear regression approach
 Question/Problem Statement:
