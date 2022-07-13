@@ -17,11 +17,6 @@ I began my explaratory data analysis by web scraping data from The [World Health
 
 In oder to merge the two tables, I performed a left join on the 'Country' field alongside some general formatting to prep for the data visualization process.
 
-*Excerpt from Code (pandasProject_CovidCaseData.py)*
-
-`df_Continents.rename(columns = {'Country or Area' : 'Country'}, inplace = True)
- df_Final = df.merge(df_Continents, on='Country', how='left')`
-
 
 ![Image Detail](images/Project1_fig1.png)
 Test2
