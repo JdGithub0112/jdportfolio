@@ -15,7 +15,7 @@ In this project I wanted to demonstrate my contempency on using Pandas for organ
 
 I began my explaratory data analysis by web scraping data from The [World Health Organization's website](https://covid19.who.int/data). I used the urllib library to pass through the csv data hosted on the WHO site to a csv file in my current file path where my Python script lived. I also web scraped data from the [Statistics Times Website](https://statisticstimes.com/geography/countries-by-continents.php) for country data so that I could add Continent data to my dataframe.
 
-In oder to merge the two tables, I performed a left join on the 'Country' field alongside some general formatting to prep for the data visualization process.
+In oder to merge the two tables, I performed a left join on the 'Country' field alongside some general formatting to prep for the data visualization process. Lastly, I used the Seaborn library to plot New Covid-19 Cases (Moving Avg.) across the date they were reported by Continent.
 
 
 ![New C19 Cases (Moving Average) by Continent](images/Project1_fig1.png)
