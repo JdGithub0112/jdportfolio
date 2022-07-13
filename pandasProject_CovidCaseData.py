@@ -70,7 +70,8 @@ sns.lineplot(data=df_Final, x='Date_reported', y='New_cases_Mov_avg',
 #Some formatting changes with the appearance
 sns.set_style("white")
 sns.set_style('ticks')
-#Setting labels
+#Setting labels and title
+ax.set_title("New COVID-19 Cases (Moving Avg.) by Continent")
 ax.set_xlabel("Date Reported")
 ax.set_ylabel("New Cases (Moving Average)")
 #Making the plot YTD by establishing the xlim to Jan 1 2022
