@@ -21,7 +21,7 @@ In oder to merge the two tables, I performed a left join on the 'Country' field 
 ![New C19 Cases (Moving Average) by Continent](images/Project1_fig1.png)
 
 
-## [Project 2 - Predicting the Price of a Used Car on Craigslist](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/project1_LinearRegression.py)
+## [(Work in Progress) Project 2 - Predicting the Price of a Used Car on Craigslist](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/project1_LinearRegression.py)
 ##### *A Linear Regression approach*
 Question/Problem Statement:
 
