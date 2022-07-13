@@ -1,10 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul  5 23:15:43 2022
 
-@author: Matt
-"""
-
+#Importing the libraries needed for this project
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -16,6 +11,8 @@ from selenium import webdriver
 """
 -----------------------------------------------------------------------------------------------------------------
 DATA EXPLORATION PROCESS
+- Web scraped Covid-19 case data from WHO as well as Continent data from an ISO certified table to create my final dataframe for data analysis
+- Applied some adjustments to the dataframe to conduct the left join in creating the final dataframe
 -----------------------------------------------------------------------------------------------------------------
 """
 
