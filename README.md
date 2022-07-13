@@ -18,8 +18,8 @@ I began my explaratory data analysis by web scraping data from The [World Health
 In oder to merge the two tables, I performed a left join on the 'Country' field alongside some general formatting to prep for the data visualization process.
 
 
-![Image Detail](images/Project1_fig1.png)
-Test2
+![New C19 Cases (Moving Average) by Continent](images/Project1_fig1.png)
+
 
 ## [Project 2 - Predicting the Price of a Used Car on Craigslist](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/project1_LinearRegression.py)
 ##### *A Linear Regression approach*
