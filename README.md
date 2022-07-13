@@ -1,8 +1,5 @@
-# Jordan Davis' Python Portfolio
 
-***
-
-Hey there - my name is Jordan and I'm a Senior Analyst at Salesforce. Below are a few projects that I have worked on.
+**Hey there - my name is Jordan and I'm a Senior Analyst at Salesforce. Below are a few projects that I have worked on.**
 
 My goal is to folow a journney of learning that never ends. I'd be happy to discuss my work further - feel free to reach out to me on LinkedIn. My resume is also available if you'd like to know more about my education and work history.
 
