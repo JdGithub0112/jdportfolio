@@ -20,7 +20,7 @@ In oder to merge the two tables, I performed a left join on the 'Country' field 
 `df_Final = df.merge(df_Continents, on='Country', how='left')`
 
 
-![Image Detail](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/images/Project1_fig1.png)
+![Image Detail](images/Project1_fig1.png)
 something
 
 ### Project 1: Craigslist Cars - a linear regression approach
