@@ -25,4 +25,6 @@ In oder to merge the two tables, I performed a left join on the 'Country' field 
 ##### *A Linear Regression approach*
 In this project, I want to be able to predict the price of a used car based off of other variables such as the odometer reading, cylinders, manufacturer, and year of production. I will use the sklearn library to conduct linear regression on my data from [Kaggle](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data).
 
+![](images/Project2_fig1.png)
+
 *In statistics, linear regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables). - wikipedia*
