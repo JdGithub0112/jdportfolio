@@ -1,7 +1,15 @@
 # Jordan Davis' Python Portfolio
-Please find below all of my Python projects. I cover five aspects of data analysis and data science. Explaratory Data Analysis (cleaning & wrangling, Data Visuazliation, something something something
-<br>
+Hey there - my name is Jordan and I'm a Senior Analyst at Salesforce. Below are a few projects that I have worked on.
+
+I display contempencies such as
+* data exploration
+* data cleaning and validation
+* data visualization
+
+My goal is to folow a journney of learning that never ends. I'd be happy to discuss my work further - feel free to reach out to me on LinkedIn. My resume is also available if you'd like to know more about my education and executive experience.
+
 * [LinkedIn](https://www.linkedin.com/in/jordandavis0112/)
+
 * [Resume](https://github.com/JdGithub0112/Jordan-Davis---Portfolio/blob/main/JordanDavis_Resume_2022.pdf)
 
 
