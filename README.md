@@ -1,5 +1,5 @@
 
-**Hey there - my name is Jordan and I'm a Senior Analyst at Salesforce. Below are a few projects that I have worked on.**
+**Hey there** - my name is Jordan and I'm a Senior Analyst at Salesforce. Below are a few projects that I have worked on.
 
 My goal is to folow a journney of learning that never ends. I'd be happy to discuss my work further - feel free to reach out to me on LinkedIn. My resume is also available if you'd like to know more about my education and work history.
 
@@ -7,6 +7,7 @@ My goal is to folow a journney of learning that never ends. I'd be happy to disc
 
 * [Resume](https://github.com/JdGithub0112/Jordan-Davis---Portfolio/blob/main/JordanDavis_Resume_2022.pdf)
 
+***
 
 ## [Pandas Project](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/pandasProject_CovidCaseData.py)
 ##### *Wrangling, joining, and cleaning World Health Organization Data for analysis and visualization*
