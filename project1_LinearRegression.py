@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-PROJECT 1: Craigslist Cars - a linear regression approach
+PROJECT 1: Craigslist Cars - a linear regression approach (Coding Author: Ken Jee, with some alteration from myself)
 """
 #Import libraries needed for this script
 import pandas as pd
