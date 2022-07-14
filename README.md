@@ -20,7 +20,3 @@ In oder to merge the two tables, I performed a left join on the 'Country' field 
 
 ![New C19 Cases (Moving Average) by Continent](images/Project1_fig1.png)
 
-
-## [(Work in Progress) Project 2 - Predicting the Price of a Used Car on Craigslist](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/project1_LinearRegression.py)
-##### *A Linear Regression approach*
-In this project, I want to be able to predict the price of a used car based off of other variables such as the odometer reading, cylinders, manufacturer, and year of production. I will use the sklearn library to conduct linear regression on my data from [Kaggle](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data).
