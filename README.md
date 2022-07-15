@@ -7,6 +7,8 @@ My goal is to folow a journney of learning that never ends. I'd be happy to disc
 
 * [Resume](https://github.com/JdGithub0112/Jordan-Davis---Portfolio/blob/main/JordanDavis_Resume_2022.pdf)
 
+* [Tableau Portfolio](https://public.tableau.com/app/profile/jordan.davis5657#!/?newProfile=&activeTab=0)
+
 ***
 
 ## [Project 1 - COVID-19 Cases Data Analysis & Visualization](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/pandasProject_CovidCaseData.py)
