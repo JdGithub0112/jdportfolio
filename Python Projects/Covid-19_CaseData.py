@@ -52,13 +52,14 @@ df_Final.to_csv("df_Final_Output.csv",encoding='utf-8')
 DATA VISUALIZATION PROCESS
 -----------------------------------------------------------------------------------------------------------------
 """
+
 #Overall Plot that shows New Cases Moving Average over Time (Date_reported) field
 df_Final.plot.line(x='Date_reported', y='New_cases_Mov_avg', xlabel='Date Reported', ylabel='New Cases (Moving Average)')
 
-#Detailed plot that shows Year-to-date New Cases Moving Average over Time (using the Date_reported) field
-
 #Create the figure size, since this is a time series I'd like a landscape like shape and went with 15x8
 fig, ax = plt.subplots(figsize=(15,8))
+
+#Plotting using Seaborn as an alternative
 #Creating the plot itself using Seaborn, x-axis is the 'Date_reported' field, y-axis is the 'New_cases_Mov_avg' field
 sns.lineplot(data=df_Final, x='Date_reported', y='New_cases_Mov_avg',
 #hue='Continent' groups the lines by the 'Continent' field, linewidth established, no confidence interval
@@ -77,7 +78,7 @@ ax.set_xlim(datetime.date(2022, 1, 1))
 fig.autofmt_xdate()
 
 """
-Here are some data exploration statements using the pandas library to obtain a better
+Here are some additional data exploration statements using the pandas library to obtain a better
 understanding of the data that I'm analyzing
 """
 #Print out some basic data explorations functions from Pandas
