@@ -1,0 +1,25 @@
+import requests
+from bs4 import BeautifulSoup
+
+# Function to scrape daily active users data from a given URL
+def scrape_daily_active_users(url):
+  # Make a request to the URL
+  response = requests.get(url)
+  # Parse the HTML content of the page
+  soup = BeautifulSoup(response.text, "html.parser")
+  # Find the element on the page containing the daily active users data
+  active_users_element = soup.find(id="active-users")
+  # Extract the daily active users data from the element
+  active_users = active_users_element.text
+  # Return the daily active users data
+  return active_users
+
+# Scrape daily active users data from the Solana blockchain
+solana_url = "https://www.solana.com/metrics"
+solana_active_users = scrape_daily_active_users(solana_url)
+print(f"Solana daily active users: {solana_active_users}")
+
+# Scrape daily active users data from the Cardano blockchain
+cardano_url = "https://www.cardano.com/en/metrics"
+cardano_active_users = scrape_daily_active_users(cardano_url)
+print(f"Cardano daily active users: {cardano_active_users}")
