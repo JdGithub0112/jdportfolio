@@ -17,6 +17,8 @@ print(f'There are {nRow} rows and {nCol} columns')
 
 print(df.isnull().sum())
 
+df = df.drop('veil-type', axis=1)
+
 def label_encoded(feat):
     le = LabelEncoder()
     le.fit(feat)
@@ -30,6 +32,14 @@ for col in df.columns:
 df.head()
 
 
- 
-plt.figure(figsize=(12,10))
+ #use matplotlib library to call function figure to size
+ #length and width of output.
+plt.figure(figsize=(12,10))ac
+plt.style.use("dark_background")
+#Seaborn to plot a correalation heatmap
 ax = sns.heatmap(df.corr())
+
+fig = plt.figure(figsize = (20,15))
+ax = fig.gca()
+df.hist(ax=ax)
+plt.show()
