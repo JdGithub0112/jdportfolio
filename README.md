@@ -1,5 +1,5 @@
 
-**Hey there** - my name is Jordan and I'm a Senior Analyst at Salesforce. Below are a few projects that I have worked on.
+**Hi there!** - my name is Jordan and I'm a Senior Data Analyst at Salesforce. Below are a few python projects that I have worked on.
 
 My passion in life is to folow a journney of continuous learning, both of myself and the world around me. I'd be happy to discuss my work experience and/or personal projects further - feel free to reach out to me on LinkedIn. My resume is also available if you'd like to know more about my education and work history.
 
@@ -22,3 +22,6 @@ In oder to merge the two tables, I performed a left join on the 'Country' field 
 
 ![New C19 Cases (Moving Average) by Continent](images/Project1_fig1.png)
 
+## [Project 2 - Mushroom Classification](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/Python%20Projects/mushroom_Classification.py)
+##### *Wrangling, joining, and cleaning World Health Organization Data for correalation analysis*
+In this project I wanted to work on my correalation analysis (draft)
