@@ -25,3 +25,4 @@ In oder to merge the two tables, I performed a left join on the 'Country' field 
 ## [Project 2 - Mushroom Classification](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/Python%20Projects/mushroom_Classification.py)
 ##### *Wrangling, joining, and cleaning World Health Organization Data for correalation analysis*
 In this project I wanted to work on my correalation analysis (draft)
+![Correalation of various categorical Mushroom attributes](images/mushroomcorraoutput.png)
