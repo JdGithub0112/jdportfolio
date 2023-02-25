@@ -5,7 +5,7 @@ My passion in life is to folow a journney of continuous learning, both of myself
 
 * [LinkedIn](https://www.linkedin.com/in/jordandavis0112/)
 
-* [Resume](https://github.com/JdGithub0112/Jordan-Davis---Portfolio/blob/main/JordanDavis_Resume_2022.pdf)
+* [Resume](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/JordanDavis_Resume_2023.pdf)
 
 * [Tableau Portfolio](https://public.tableau.com/app/profile/jordan.davis5657#!/?newProfile=&activeTab=0)
 
