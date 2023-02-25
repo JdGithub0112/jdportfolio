@@ -12,6 +12,8 @@ df = pd.read_csv('mushrooms.csv')
 print(df.head)
 print(df.columns)
 
+
+#Another way of writing this is df.shape() to obtain rows and columns respectively
 nRow, nCol = df.shape
 print(f'There are {nRow} rows and {nCol} columns')
 
@@ -31,11 +33,10 @@ for col in df.columns:
 
 df.head()
 
-
  #use matplotlib library to call function figure to size
  #length and width of output.
-plt.figure(figsize=(12,10))ac
-plt.style.use("dark_background")
+plt.figure(figsize=(12,10))
+#plt.style.use("dark_background")
 #Seaborn to plot a correalation heatmap
 ax = sns.heatmap(df.corr())
 
@@ -43,3 +44,10 @@ fig = plt.figure(figsize = (20,15))
 ax = fig.gca()
 df.hist(ax=ax)
 plt.show()
+
+corr = df.corr()
+rela = corr['class'].sort_values(ascending = False)
+rela
+
+plt.subplots(figsize=(12, 12))
+sns.heatmap(corr, annot = True) 
