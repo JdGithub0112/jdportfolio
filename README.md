@@ -1,7 +1,7 @@
 
 **Hi there!** - my name is Jordan and I'm a Senior Data Analyst at Salesforce. Below are a few python projects that I have worked on.
 
-![](images/DSC02671.jpg)
+![](Jordans-Portfolio/images/DSC05105.jpg)
 
 My passion in life is to follow a journey of continuous learning, both of myself and the world around me. I'd be happy to discuss my work experience and/or personal projects further - feel free to reach out to me on LinkedIn. My resume is also available if you'd like to know more about my education and work history.
 
