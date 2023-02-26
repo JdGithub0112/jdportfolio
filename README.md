@@ -1,9 +1,9 @@
 
-**Hi there!** - my name is Jordan and I'm a Senior Data Analyst at Salesforce. Below are a few python projects that I have worked on.
+**Hi there!** - my name is Jordan and I'm a Senior Data Analyst at Salesforce. I'm currently the lead Tableau Developer for our Data Insights & Scalability team. My day typically involves developing and validating novel reveneue metrics to monitor process improvement and automation efforts. Telling data stories is one of my many passions in life. Below are a few python projects that I have worked on.
 
 ![](images/DSC05105.jpg)
 
-My passion in life is to follow a journey of continuous learning, both of myself and the world around me. I'd be happy to discuss my work experience and/or personal projects further - feel free to reach out to me on LinkedIn. My resume is also available if you'd like to know more about my education and work history.
+Another passion in my life is to follow a journey of continuous learning, both of myself and the world around me. I'd be happy to discuss my work experience and/or personal projects further - feel free to reach out to me on LinkedIn. My resume is also available if you'd like to know more about my education and work history.
 
 * [LinkedIn](https://www.linkedin.com/in/jordandavis0112/)
 
