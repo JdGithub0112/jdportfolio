@@ -23,6 +23,6 @@ In oder to merge the two tables, I performed a left join on the 'Country' field 
 ![New C19 Cases (Moving Average) by Continent](images/Project1_fig1.png)
 
 ## [Project 2 - Mushroom Classification](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/Python%20Projects/mushroom_Classification.py)
-##### *Wrangling, joining, and cleaning World Health Organization Data for correalation analysis*
-In this project I wanted to work on my correalation analysis (draft)
+##### *Exploratory Data Analysis and Classification*
+In this project I performed exploratory data analysis as well as transcription of data elements to analyze correlation. The goal will be able to classify a test set of mushrooms that are either edible or not given their charecteristics.
 ![Correalation of various categorical Mushroom attributes](images/mushroomcorraoutput.png)
