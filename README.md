@@ -32,6 +32,9 @@ The project employs various classification algorithms from the scikit-learn (skl
 ![Correalation of various categorical Mushroom attributes](images/corr_with_labels_classification.png)
 
 
+---
+
+
 ## [Python Project: COVID-19 Cases Data Analysis & Visualization](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/Python%20Projects/Covid-19_CaseData.py)
 ##### *Wrangling, joining, and cleaning World Health Organization Data for analysis and visualization*
 ##### *Leveraging Pandas and NumPy Python Libraries*
