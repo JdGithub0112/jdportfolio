@@ -13,6 +13,14 @@ Another passion in my life is to follow a journey of continuous learning, both o
 
 ***
 
+## [Project 2 - Mushroom Classification](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/Python%20Projects/mushroom_Classification.py)
+### *Predicting whether or not a mushroom is edible or not based off of certain charecteristics: Exploratory Data Analysis and Classification*
+![](images/andrew-ridley-GZl6HWkjWsM-unsplash.jpg)
+In this project I performed exploratory data analysis as well as transcription of data elements to analyze correlation. The goal will be able to classify a test set of mushrooms that are either edible or not given their charecteristics.
+![Label encoding is a technique for converting categorical data into numerical data by assigning a unique numerical value to each category. This is often done in machine learning tasks to prepare the data for modeling.](images/codeSniip_classification.PNG)
+![Correalation of various categorical Mushroom attributes](images/mushroomcorraoutput.png)
+
+
 ## [Project 1 - COVID-19 Cases Data Analysis & Visualization](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/Python%20Projects/Covid-19_CaseData.py)
 ##### *Wrangling, joining, and cleaning World Health Organization Data for analysis and visualization*
 In this project I wanted to demonstrate my contempency on using Pandas for organizing and cleaning my data to end up with a dataframe for analysis. In this scenario, I wanted to learn how to scrape data from the web to have up-to-date information for my plots. The data in question comes from the World Health Organization and displays Covid cases/deaths data since early 2020 (cadence for update is everyday).
@@ -21,12 +29,4 @@ I began my explaratory data analysis by web scraping data from The [World Health
 
 In oder to merge the two tables, I performed a left join on the 'Country' field alongside some general formatting to prep for the data visualization process. Lastly, I used the Seaborn library to plot New Covid-19 Cases (Moving Avg.) across the date they were reported by Continent.
 
-
 ![New C19 Cases (Moving Average) by Continent](images/Project1_fig1.png)
-
-## [Project 2 - Mushroom Classification](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/Python%20Projects/mushroom_Classification.py)
-##### *Exploratory Data Analysis and Classification*
-![](images/andrew-ridley-GZl6HWkjWsM-unsplash.jpg)
-In this project I performed exploratory data analysis as well as transcription of data elements to analyze correlation. The goal will be able to classify a test set of mushrooms that are either edible or not given their charecteristics.
-![Label encoding is a technique for converting categorical data into numerical data by assigning a unique numerical value to each category. This is often done in machine learning tasks to prepare the data for modeling.](images/codeSniip_classification.PNG)
-![Correalation of various categorical Mushroom attributes](images/mushroomcorraoutput.png)
