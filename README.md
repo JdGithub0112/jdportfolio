@@ -18,7 +18,7 @@ Another passion in my life is to follow a journey of continuous learning, both o
 ![](images/zhen-hu-DfqVqddJY7Y-unsplash.jpg)
 In this project I performed exploratory data analysis as well as transcription of data elements to analyze correlation. The goal will be able to classify a test set of mushrooms that are either edible or not given their charecteristics.
 ![Label encoding is a technique for converting categorical data into numerical data by assigning a unique numerical value to each category. This is often done in machine learning tasks to prepare the data for modeling.](images/corr_with_labels_classification.png)
-![Correalation of various categorical Mushroom attributes](images/mushroomcorraoutput.png)
+![Correalation of various categorical Mushroom attributes](images/corr_with_labels_classification.png)
 
 
 ## [Python Project: COVID-19 Cases Data Analysis & Visualization](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/Python%20Projects/Covid-19_CaseData.py)
