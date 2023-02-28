@@ -27,4 +27,5 @@ In oder to merge the two tables, I performed a left join on the 'Country' field 
 ## [Project 2 - Mushroom Classification](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/Python%20Projects/mushroom_Classification.py)
 ##### *Exploratory Data Analysis and Classification*
 In this project I performed exploratory data analysis as well as transcription of data elements to analyze correlation. The goal will be able to classify a test set of mushrooms that are either edible or not given their charecteristics.
+![Label encoding is a technique for converting categorical data into numerical data by assigning a unique numerical value to each category. This is often done in machine learning tasks to prepare the data for modeling.](images/codeSniip_classification.PNG)
 ![Correalation of various categorical Mushroom attributes](images/mushroomcorraoutput.png)
