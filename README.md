@@ -1,5 +1,5 @@
 
-**Hi there!** - my name is Jordan and I'm a Senior Data Analyst at Salesforce. I'm currently the lead Tableau Developer for our Data Insights & Scalability team. My day typically involves developing and validating novel reveneue metrics to monitor process improvement and automation efforts. Telling data stories is one of my many passions in life. Below are a few python projects that I have worked on.
+**Hi there!** - my name is Jordan and I'm a Senior Data Analyst at Salesforce. I'm currently the lead Tableau Developer for our Data Insights & Scalability team. My day typically involves developing and validating novel revenue metrics to monitor process improvement and automation efforts. Telling data stories is one of my many passions in life.
 
 ![](images/DSC05105.jpg)
 
