@@ -17,7 +17,7 @@ Another passion in my life is to follow a journey of continuous learning, both o
 ### *Predicting whether or not a mushroom is edible or not based off of certain charecteristics: Exploratory Data Analysis and Classification*
 ![](images/zhen-hu-DfqVqddJY7Y-unsplash.jpg)
 In this project I performed exploratory data analysis as well as transcription of data elements to analyze correlation. The goal will be able to classify a test set of mushrooms that are either edible or not given their charecteristics.
-![Label encoding is a technique for converting categorical data into numerical data by assigning a unique numerical value to each category. This is often done in machine learning tasks to prepare the data for modeling.](images/corr_with_labels_classification.png)
+![Label encoding is a technique for converting categorical data into numerical data by assigning a unique numerical value to each category. This is often done in machine learning tasks to prepare the data for modeling.](images/codeSniip_classification.PNG)
 ![Correalation of various categorical Mushroom attributes](images/corr_with_labels_classification.png)
 
 
