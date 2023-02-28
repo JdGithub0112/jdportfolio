@@ -16,7 +16,10 @@ Another passion in my life is to follow a journey of continuous learning, both o
 ## [Python Project: Mushroom Classification](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/Python%20Projects/mushroom_Classification.py)
 ### *Predicting whether or not a mushroom is edible or not based off of certain charecteristics: Exploratory Data Analysis and Classification*
 ![](images/zhen-hu-DfqVqddJY7Y-unsplash.jpg)
-In this project I performed exploratory data analysis as well as transcription of data elements to analyze correlation. The goal will be able to classify a test set of mushrooms that are either edible or not given their charecteristics.
+The goal of this classification Python portfolio project is to classify mushrooms as either edible or poisonous based on their physical characteristics. The project uses a dataset containing information about various physical attributes of mushrooms, such as cap shape, color, odor, and stalk shape.
+
+The project employs various classification algorithms from the scikit-learn (sklearn) library to train and evaluate models on the mushroom dataset. The goal of the project is to build a model that can accurately classify mushrooms as either edible or poisonous based on their physical characteristics. This has important practical applications in the field of mycology and public health, as it can help people to identify dangerous or potentially harmful mushrooms in the wild. Additionally, the project serves as a good example of the application of classification algorithms in data science.
+
 ![Label encoding is a technique for converting categorical data into numerical data by assigning a unique numerical value to each category. This is often done in machine learning tasks to prepare the data for modeling.](images/codeSniip_classification.PNG)
 ![Correalation of various categorical Mushroom attributes](images/corr_with_labels_classification.png)
 
