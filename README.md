@@ -23,7 +23,7 @@ The goal of this classification Python portfolio project is to classify mushroom
 The project employs various classification algorithms from the scikit-learn (sklearn) library to train and evaluate models on the mushroom dataset. The goal of the project is to build a model that can accurately classify mushrooms as either edible or poisonous based on their physical characteristics. This has important practical applications in the field of mycology and public health, as it can help people to identify dangerous or potentially harmful mushrooms in the wild. Additionally, the project serves as a good example of the application of classification algorithms in data science.
 
 #### *Exploring and Preparing our Data for Analysis*
-Label encoding is a technique for converting categorical data into numerical data by assigning a unique numerical value to each category. This is often done in machine learning tasks to prepare the data for modeling and is useful for correlation plots as seen below.
+**Label encoding is a technique for converting categorical data into numerical data by assigning a unique numerical value to each category. This is often done in machine learning tasks to prepare the data for modeling and is useful for correlation plots as seen below.**
 ![Label encoding is a technique for converting categorical data into numerical data by assigning a unique numerical value to each category. This is often done in machine learning tasks to prepare the data for modeling.](images/codeSniip_classification.PNG)
 
 
