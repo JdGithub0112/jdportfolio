@@ -28,6 +28,7 @@ The project employs various classification algorithms from the scikit-learn (skl
 
 
 #### *Understand correlations, if any - present in the dataset*
+**By calculating the correlation between various physical attributes, such as cap size, stalk length, or gill spacing, and the mushroom's edibility or toxicity, we can determine which attributes are most strongly predictive of whether or not a mushroom is safe to eat. This information can be used to develop a classification model that accurately predicts a mushroom's edibility based on its physical characteristics.**
 ![Correalation of various categorical Mushroom attributes](images/corr_with_labels_classification.png)
 
 
