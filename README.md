@@ -32,7 +32,7 @@ The project employs various classification algorithms from the scikit-learn (skl
 ![Correalation of various categorical Mushroom attributes](images/corr_with_labels_classification.png)
 
 #### *Building Classification model using KNN begins with creating a training and testing split (70,30)*
-![something](images/KNN.png)
+![](images/KNN.PNG)
 
 
 ---
