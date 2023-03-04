@@ -3,7 +3,7 @@
 
 ![](images/DSC05105.jpg)
 
-Another passion in my life is to follow a journey of continuous learning, both of myself and the world around me. I'd be happy to discuss my work experience and/or personal projects further - feel free to reach out to me on LinkedIn. My resume is also available if you'd like to know more about my education and work history.
+Another passion in my life is to follow a journey of continuous learning, both of myself and the world around me. I'd be happy to discuss my work experience and/or personal projects further - feel free to reach out to me on LinkedIn or via email. My resume is also available if you'd like to know more about my education and work history.
 
 * [LinkedIn](https://www.linkedin.com/in/jordandavis0112/)
 
