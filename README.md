@@ -14,7 +14,7 @@ Another passion in my life is to follow a journey of continuous learning, both o
 ***
 
 ## [Python Project: Mushroom Classification](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/Python%20Projects/mushroom_Classification.py)
-### *Predicting whether or not a mushroom is edible or not based off of certain charecteristics*
+### *Predicting whether a mushroom is edible or poisonous given its features*
 ![](images/zhen-hu-DfqVqddJY7Y-unsplash.jpg)
 
 #### *Background*
