@@ -34,7 +34,12 @@ The project employs a classification algorithm (K Nearest Neighbors) from the sc
 ![Correalation of various categorical Mushroom attributes](images/corr_with_labels_classification.png)
 
 #### *Building Classification model using KNN begins with creating a training and testing split (70,30)*
-![](images/KNN.PNG)
+
+In order to test our model we'll have to split our dataset into a training (70% of the dataset) and testing (30% of the dataset) portions. This trains our model to obtain a better understanding of which mushrooms are edible or poisonous based off of the features associated. Then we 'test' our model on the remaining 30% of the unseen test data to access how accurate it can make its prediction of a mushroom being edible or not.
+![](images/334692955_751419652969953_8430446282249963470_n.jpg)
+
+The code block that creates the train and test split.
+![Splitting the data](images/KNN.PNG)
 
 
 ---
