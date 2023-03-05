@@ -41,7 +41,7 @@ In order to test our model we'll have to split our dataset into a training (70% 
 
 When using a K-value of 5, the accuracy percentage output was 99.5%. Substituting the K-value to 3 yielded an accuracy percentage of **99.6%**
 
-In general, a good classification model should have an accuracy that is significantly higher than the random chance level. For example, if there are two classes and the data is evenly distributed, the random chance level is 50%. In this case, a model that achieves an accuracy of 70% or higher would be considered good. In regards to mycology classification, 99.6% may not be sufficient - but for a basic classficiation model it is quite accurate.
+In general, a good classification model should have an accuracy that is significantly higher than the random chance level. For example, if there are two classes and the data is evenly distributed, the random chance level is 50%. In this case, a model that achieves an accuracy of 70% or higher would be considered good. In regards to mycology classification, 99.7% may not be sufficient - but for a basic classficiation model it is quite accurate.
 
 
 ---
