@@ -13,7 +13,7 @@ Another passion in my life is to follow a journey of continuous learning, both o
 
 ***
 
-## [Python Project: Mushroom Classification](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/Python%20Projects/mushroom_Classification.py)
+## [Python Project: Mushroom Classification](https://github.com/JdGithub0112/Jordan-Davis-Python-Portfolio/tree/main/Python%20Projects)
 ### Predicting whether a mushroom is edible or poisonous based off its features
 ![](images/zhen-hu-DfqVqddJY7Y-unsplash.jpg)
 
@@ -47,7 +47,7 @@ In general, a good classification model should have an accuracy that is signific
 ---
 
 
-## [Python Project: COVID-19 Cases Data Analysis & Visualization](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/Python%20Projects/Covid-19_CaseData.py)
+## [Python Project: COVID-19 Cases Data Analysis & Visualization](https://github.com/JdGithub0112/Jordan-Davis-Python-Portfolio/tree/main/Python%20Projects)
 ##### Wrangling, joining, and cleaning World Health Organization Data for analysis and visualization
 
 In this project I wanted to demonstrate my competency on using Pandas for organizing and cleaning my data to end up with a data frame for analysis. In this scenario, I wanted to learn how to scrape data from the web to have up-to-date information for my plots. The data in question comes from the World Health Organization and displays Covid cases/deaths data since early 2020 (cadence for update is everyday).
