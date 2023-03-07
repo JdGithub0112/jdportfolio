@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bitcoin Price Prediction Modeler</title>
+  </head>
+  <body>
+    <header>
+      <h1>Bitcoin Price Prediction Modeler</h1>
+    </header>
+    <main>
+      <form id="form">
+        <label for="date-input">Enter a date:</label>
+        <input type="date" id="date-input" name="date-input" required>
+        <button type="submit">Predict</button>
+      </form>
+      <div id="result"></div>
+    </main>
+    <footer>
+      <p>Powered by CoinGecko API</p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/coingecko-api@2.3.0/dist/browser.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
