@@ -1,4 +1,4 @@
-## Welcome to the Python Competitions section of my Portfolio
+## Welcome to the Python Competitions section of my Portfolio!
 I am currently enrolled in one data science Python competition and have been actively working on it. Each of the project(s) has its own Jupyter notebook where I document my progress, methodology, and results.
 
 ### Competitions:
