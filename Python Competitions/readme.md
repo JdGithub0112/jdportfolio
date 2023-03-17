@@ -3,7 +3,7 @@ I am currently enrolled in one data science Python competition and have been act
 
 ### Competitions
 ### [DataCamp: Predicting Hotel Cancellations](https://app.datacamp.com/learn/competitions/predict-hotel-cancellation)
-In this competition, the goal is to predict the sale price of houses based on various features such as the number of bedrooms, bathrooms, and the overall condition of the house. I have been using various regression models such as linear regression, random forest regression, and gradient boosting regression to predict the house prices. You can find my Jupyter notebook for this project here.
+You are supporting a hotel with a project aimed to increase revenue from their room bookings. They believe that they can use data science to help them reduce the number of cancellations. This is where you come in! They have asked you to use any appropriate methodology to identify what contributes to whether a booking will be fulfilled or cancelled. They intend to use the results of your work to reduce the chance someone cancels their booking.
 
 
 ### Conclusion
