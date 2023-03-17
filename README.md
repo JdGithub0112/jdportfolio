@@ -35,7 +35,7 @@ Label encoding is a technique for converting categorical data into numerical dat
 #### Understand correlations, if any - present in the dataset
 By calculating the correlation between various physical attributes, such as cap size, stalk length, or gill spacing, and the mushroom's edibility or toxicity, we can determine which attributes are most strongly predictive of whether or not a mushroom is safe to eat. This information can be used to develop a classification model that accurately predicts a mushroom's edibility based on its physical characteristics.
 ![Correlation of various categorical Mushroom attributes](images/corr_with_labels_classification.png)
-<img src="images/corr_with_labels_classification.png" alt="Correlation of various categorical Mushroom attributes" width="50%", height = "50%">
+<img src="images/corr_with_labels_classification.png" alt="Correlation of various categorical Mushroom attributes" width="50%">
 
 #### Building Classification model using KNN begins with creating a training and testing split (70,30)
 
