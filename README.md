@@ -16,7 +16,7 @@ Another passion in my life is to follow a journey of continuous learning, both o
 ## [Python Competition: Predicting Hotel Cancellations](https://app.datacamp.com/workspace/w/8a3885d1-9e63-4b05-8bea-f7006c057ecf/edit)
 ### Predicting whether a hotel will be cancelled or not given its features
 ![](https://images.unsplash.com/photo-1519227355453-8f982e425321?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1931&q=80)
-The Random Forest Classifying model predicted whether a hotel will be cancelled or not with **85.13% accuracy** on this dataset.
+Performing data wrangling and exploratory analysis to understand correalations. Using XGBoost to predict whether a hotel will be cancelled or not with **85.5% accuracy** on this dataset.
 
 ## [Python Project: Mushroom Classification](https://github.com/JdGithub0112/Jordan-Davis-Python-Portfolio/tree/main/Python%20Projects)
 ### Predicting whether a mushroom is edible or poisonous based off its features
