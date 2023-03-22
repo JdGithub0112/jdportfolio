@@ -16,7 +16,7 @@ Another passion in my life is to follow a journey of continuous learning, both o
 ## [Python Competition: Predicting Hotel Cancellations](https://app.datacamp.com/workspace/w/8a3885d1-9e63-4b05-8bea-f7006c057ecf/edit)
 ### Predicting whether a hotel will be cancelled or not given its features
 Performing data wrangling and exploratory analysis to understand correalations. Using XGBoost to predict whether a hotel will be cancelled or not with **85.5% accuracy** on this dataset.
-![]([https://unsplash.com/photos/DGa0LQ0yDPc](https://images.unsplash.com/photo-1445019980597-93fa8acb246c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80))
+![](images/manuel-moreno-DGa0LQ0yDPc-unsplash.jpg)
 
 ## [Python Project: Mushroom Classification](https://github.com/JdGithub0112/Jordan-Davis-Python-Portfolio/tree/main/Python%20Projects)
 ### Predicting whether a mushroom is edible or poisonous based off its features
