@@ -4,7 +4,10 @@
 ### Welcome to my GitHub Python Project Portfolio! This repository showcases my skills in data exploration and analysis using Python.
 
 #### Mushroom Project
-In the mushroom_analysis folder, you can find two .py files that perform data exploration and analysis on the Mushroom dataset. The files are:
+In the mushroom_analysis folder, you can find two .py files that perform data exploration and analysis on the Mushroom dataset.
+
+.py files:
+![](https://github.com/JdGithub0112/Jordan-Davis-Python-Portfolio/blob/main/Python%20Projects/mushroom_Classification_ExploratoryAnalysis.py)
 
 mushroom_data_exploration.py: This script explores the Mushroom dataset, which contains information about various types of mushrooms. The script uses the Pandas library to load and clean the data, and then creates visualizations to help understand the data.
 mushroom_data_analysis.py: This script performs analysis on the Mushroom dataset, using statistical techniques such as hypothesis testing and regression analysis. The script also creates visualizations to help interpret the results.
