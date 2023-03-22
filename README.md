@@ -20,12 +20,10 @@ Performing data wrangling and exploratory analysis to understand correalations. 
 
 ## [Python Project: Mushroom Classification](https://github.com/JdGithub0112/Jordan-Davis-Python-Portfolio/tree/main/Python%20Projects)
 ### Predicting whether a mushroom is edible or poisonous based off its features
-![](images/zhen-hu-DfqVqddJY7Y-unsplash.jpg)
-
-#### Background
 The goal of this classification Python project is to classify mushrooms as either edible or poisonous based on their physical characteristics. The project uses a dataset containing information about various physical attributes of mushrooms, such as cap shape, color, odor, stalk length, etc.
 
 The project employs a classification algorithm (K Nearest Neighbors) from the scikit-learn (sklearn) library to train and evaluate the model on this mushroom dataset. The goal of the project is to build a model that can accurately (>=99.5%) classify mushrooms as either edible or poisonous based on their physical characteristics. Classification models have important practical applications in the field of mycology and public health, as it can help people to identify dangerous or potentially harmful mushrooms in the wild.
+![](images/zhen-hu-DfqVqddJY7Y-unsplash.jpg)
 
 #### Exploring and Preparing our Data for Analysis
 Label encoding is a technique for converting categorical data into numerical data by assigning a unique numerical value to each category. This is often done in machine learning tasks to prepare the data for modeling and is useful for correlation plots as seen below.
