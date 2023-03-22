@@ -4,7 +4,6 @@
 ### Welcome to my GitHub Python Project Portfolio! This repository showcases my skills in data exploration and analysis using Python.
 
 #### Mushroom Project
-In the mushroom_analysis folder, you can find two .py files that perform data exploration and analysis on the Mushroom dataset.
 
 .py files:
 
