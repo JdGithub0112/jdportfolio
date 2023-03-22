@@ -7,6 +7,7 @@
 In the mushroom_analysis folder, you can find two .py files that perform data exploration and analysis on the Mushroom dataset.
 
 .py files:
+
 [Exploratory Analysis](https://github.com/JdGithub0112/Jordan-Davis-Python-Portfolio/blob/main/Python%20Projects/mushroom_Classification_ExploratoryAnalysis.py)
 
 [K Nearest Neighbor Classification Model](https://github.com/JdGithub0112/Jordan-Davis-Python-Portfolio/blob/main/Python%20Projects/mushroom_Classification_Model.py)
