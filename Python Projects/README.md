@@ -8,6 +8,7 @@ In the mushroom_analysis folder, you can find two .py files that perform data ex
 
 .py files:
 [Exploratory Analysis](https://github.com/JdGithub0112/Jordan-Davis-Python-Portfolio/blob/main/Python%20Projects/mushroom_Classification_ExploratoryAnalysis.py)
+
 [K Nearest Neighbor Classification Model](https://github.com/JdGithub0112/Jordan-Davis-Python-Portfolio/blob/main/Python%20Projects/mushroom_Classification_Model.py)
 
 mushroom_data_exploration.py: This script explores the Mushroom dataset, which contains information about various types of mushrooms. The script uses the Pandas library to load and clean the data, and then creates visualizations to help understand the data.
