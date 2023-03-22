@@ -35,4 +35,4 @@ covid_data_exploration.py: This script explores the COVID-19 dataset, which cont
 
 .py files:
 
-
+[Exploratory Analysis](https://github.com/JdGithub0112/Jordan-Davis-Python-Portfolio/blob/main/Python%20Projects/Covid-19_CaseData.py)
