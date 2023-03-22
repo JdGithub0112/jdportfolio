@@ -14,7 +14,7 @@ In the mushroom_analysis folder, you can find two .py files that perform data ex
 
 ### Exploring and Preparing our Data for Analysis
 Label encoding is a technique for converting categorical data into numerical data by assigning a unique numerical value to each category. This is often done in machine learning tasks to prepare the data for modeling and is useful for correlation plots as seen below.
-![Label encoding is a technique for converting categorical data into numerical data by assigning a unique numerical value to each category. This is often done in machine learning tasks to prepare the data for modeling.](images/codeSniip_classification.PNG)
+![Label encoding is a technique for converting categorical data into numerical data by assigning a unique numerical value to each category. This is often done in machine learning tasks to prepare the data for modeling.](Jordan-Davis-Python-Portfolio/images/codeSniip_classification.PNG)
 
 
 #### Understand correlations, if any - present in the dataset
