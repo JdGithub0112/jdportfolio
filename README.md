@@ -13,6 +13,11 @@ Another passion in my life is to follow a journey of continuous learning, both o
 
 ***
 
+## [Python Project: Solana Blockchain EDA and Analysis](https://app.datacamp.com/workspace/w/8a3885d1-9e63-4b05-8bea-f7006c057ecf/edit)
+### Webscraping Solana Blockchain data (Solana Price, and Daily Active Users (DAUs) on Solana (7DMA))
+For developers and platform maintainers, tracking DAU provides insights into the platform's health, usability, and overall adoption. A steadily increasing DAU indicates that the platform is gaining traction and that new projects or applications might be driving user engagement.
+![](images/manuel-moreno-DGa0LQ0yDPc-unsplash.jpg)
+
 ## [Python Competition: Predicting Hotel Cancellations](https://app.datacamp.com/workspace/w/8a3885d1-9e63-4b05-8bea-f7006c057ecf/edit)
 ### Predicting whether a hotel will be cancelled or not given its features
 Performing data wrangling and exploratory analysis to understand correalations. Using XGBoost to predict whether a hotel will be cancelled or not with **85.5% accuracy** on this dataset.
