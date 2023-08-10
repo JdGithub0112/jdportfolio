@@ -16,7 +16,7 @@ Another passion in my life is to follow a journey of continuous learning, both o
 ## [Python Project: Solana Blockchain EDA and Analysis](https://github.com/JdGithub0112/jdportfolio/blob/main/Python%20Projects/solana_EDA.py)
 ### Webscraping Solana Blockchain data (Solana Price, and Daily Active Users (DAUs) on Solana (7DMA))
 For developers and platform maintainers, tracking DAU provides insights into the platform's health, usability, and overall adoption. A steadily increasing DAU indicates that the platform is gaining traction and that new projects or applications might be driving user engagement.
-![]([images/manuel-moreno-DGa0LQ0yDPc-unsplash.jpg])
+![]([[images/manuel-moreno-DGa0LQ0yDPc-unsplash.jpg]](https://github.com/JdGithub0112/jdportfolio/blob/main/images/solanaEDAOverlay.PNG))
 
 ## [Python Competition: Predicting Hotel Cancellations](https://app.datacamp.com/workspace/w/8a3885d1-9e63-4b05-8bea-f7006c057ecf/edit)
 ### Predicting whether a hotel will be cancelled or not given its features
