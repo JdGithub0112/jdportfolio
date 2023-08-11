@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solana DAU & Price Chart</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+
+<div id="plotly-div"></div>
+
+<script>
+    const solanaUsersEndpoint = "https://api.solana.fm/v0/stats/active-users";
+    const coingeckoEndpoint = "https://api.coingecko.com/api/v3/coins/solana/market_chart/range";
+
+    const endDate = new Date();
+    const startDate = new Date("2022-01-01");
+
+    let dates = [];
+    let dauCounts = [];
+    let prices = [];
+
+    fetch(`${coingeckoEndpoint}?vs_currency=usd&from=${startDate.getTime() / 1000}&to=${endDate.getTime() / 1000}`)
+        .then(response => response.json())
+        .then(data => {
+            data.prices.forEach(item => {
+                const dateObj = new Date(item[0]);
+                dates.push(dateObj.toISOString().split('T')[0]);
+                prices.push(item[1]);
+            });
+
+            let dauPromises = dates.map(dateStr => {
+                return fetch(`${solanaUsersEndpoint}?date=${new Date(dateStr).toLocaleDateString('en-GB')}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.status === 'Success') {
+                            dauCounts.push(data.result.activeUsers);
+                        }
+                    });
+            });
+
+            return Promise.all(dauPromises);
+        })
+        .then(() => {
+            const movingAvg = dauCounts.map((_, i) => {
+                const start = Math.max(0, i - 6);
+                const end = i + 1;
+                const avg = dauCounts.slice(start, end).reduce((a, b) => a + b) / (end - start);
+                return avg;
+            });
+
+            const fig = {
+                data: [
+                    { x: dates, y: movingAvg, mode: 'lines', name: '7-Day Moving Average', line: { color: 'purple' } },
+                    { x: dates, y: prices, mode: 'lines', name: 'Solana Price', line: { color: 'teal' }, yaxis: 'y2' }
+                ],
+                layout: {
+                    title: 'Solana Daily Active User Count (7DMA) & Price - 2022 to Present',
+                    xaxis: { title: 'Date' },
+                    yaxis: { title: 'DAU Count' },
+                    yaxis2: { title: 'Price (USD)', overlaying: 'y', side: 'right' }
+                }
+            };
+
+            Plotly.newPlot('plotly-div', fig.data, fig.layout);
+        });
+</script>
+
+</body>
+</html>
