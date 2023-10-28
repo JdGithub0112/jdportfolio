@@ -13,6 +13,10 @@ Another passion in my life is to follow a journey of continuous learning (curren
 
 ***
 
+## What I'm currently interested in and building
+### Python Web App -- [Cryptocurrency Daily Active User (DAU) Tracker](https://github.com/JdGithub0112/cryptoDAU_WebApp)
+#### Purpose: The Crypto DAU Explorer is a data-driven web application currently in development, designed to offer real-time insights into the top 10 cryptocurrencies. Please note that it is a work in progress and can be run locally only.
+
 ## [Python Project: Solana Blockchain EDA and Analysis](https://github.com/JdGithub0112/jdportfolio/blob/main/Python%20Projects/solana_EDA.py)
 ### Webscraping Solana Blockchain data (Solana Price, and Daily Active Users (DAUs) on Solana (7DMA))
 For developers and platform maintainers, tracking DAU provides insights into the platform's health, usability, and overall adoption. A steadily increasing DAU indicates that the platform is gaining traction and that new projects or applications might be driving user engagement.
