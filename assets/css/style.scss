@@ -1,0 +1,10 @@
+---
+# Front matter to process the file
+---
+
+@import "{{ site.theme }}"; // Import the base minimal theme styles
+
+body {
+  background-color: slategray; /* Set background color */
+  color: white;               /* Ensure text is legible */
+}
