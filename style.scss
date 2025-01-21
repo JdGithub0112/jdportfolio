@@ -1,0 +1,15 @@
+---
+# Make sure this front matter block is present to process the file
+---
+
+@import "{{ site.theme }}"; // Import the base minimal theme styles
+
+body {
+  background-color: slategray; /* Change to your desired shade */
+  color: white; /* Ensure text remains legible on the new background */
+}
+
+a {
+  color: lightblue; /* Optional: Customize link color */
+}
+
