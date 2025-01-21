@@ -4,7 +4,33 @@
 
 @import "{{ site.theme }}"; // Import the base minimal theme styles
 
+/* Set the background color */
 body {
-  background-color: slategray; /* Set background color */
-  color: white;               /* Ensure text is legible */
+  background-color: #36404a; /* Background color */
+  color: #f0f0f0;           /* Light text color for contrast */
+}
+
+/* Style hyperlinks */
+a {
+  color: #1e90ff;            /* Light blue for links */
+  text-decoration: underline; /* Optional: Underline links */
+}
+
+a:hover {
+  color: #00bfff;            /* Brighter blue for hover state */
+  text-decoration: none;     /* Optional: Remove underline on hover */
+}
+
+/* Optional: Customize header colors */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;            /* Bright white headers */
+}
+
+/* Optional: Customize navigation or footer links */
+.navbar a, .footer a {
+  color: #87cefa;            /* Softer blue for navigation/footer links */
+}
+
+.navbar a:hover, .footer a:hover {
+  color: #00bfff;            /* Brighter blue on hover */
 }
