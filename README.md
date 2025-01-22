@@ -13,7 +13,7 @@ Another passion in my life is to follow a journey of continuous learning (curren
 
 ## What I'm currently interested in and building
 ### Python Web App -- [Cryptocurrency Daily Active User (DAU) Explorer](https://github.com/JdGithub0112/cryptoDAU_WebApp)
-#### The Crypto DAU Explorer is a data-driven web application currently in development, built with technologies such as Flask for the backend and HTML for the frontend. It is designed to offer real-time insights into the top 10 cryptocurrencies. Please note that it is a work in progress and can be run locally only.
+The Crypto DAU Explorer is a data-driven web application currently in development, built with technologies such as Flask for the backend and HTML for the frontend. It is designed to offer real-time insights into the top 10 cryptocurrencies. Please note that it is a work in progress and can be run locally only.
 
 ***
 
