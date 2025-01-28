@@ -7,8 +7,6 @@ Another passion in my life is to follow a journey of continuous learning (curren
 
 * [Resume](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/JordanDavis_Resume_2023.pdf)
 
-* [Tableau Portfolio](https://public.tableau.com/app/profile/jordan.davis5657#!/?newProfile=&activeTab=0)
-
 ***
 
 ## What I'm currently interested in and building
