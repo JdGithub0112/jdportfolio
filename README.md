@@ -1,5 +1,5 @@
 
-Hi there! - my name is Jordan and I'm a Senior Data Analyst at Salesforce. I'm currently a lead Tableau Developer for our Data Insights & Scalability team. My day typically involves developing and validating novel revenue metrics to monitor process improvement and automation efforts in Salesforce's Finance organization. Telling data stories is one of my many passions in life.
+Hi there! - my name is Jordan, I'm a Lead Data Analyst at Salesforce. When I'm not crunching numbers you can find me cycling, writing about the markets, and playing video games with friends.
 
 Another passion in my life is to follow a journey of continuous learning (currently learning dbt fundamentals!), both of myself and the world around me. I'd be happy to discuss my work experience and/or personal projects further - feel free to reach out to me on LinkedIn or via email. My resume is also available if you'd like to know more about my education and work history. To view each project, click the title of the project itself (dark blue text).
 
