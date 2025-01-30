@@ -1,8 +1,7 @@
 
 Hi there! - my name is Jordan, I'm a Lead Data Analyst at Salesforce. When I'm not crunching numbers you can find me cycling, writing about the markets, and playing video games with friends.
 
-Another passion in my life is to follow a journey of continuous learning (currently learning dbt fundamentals!), both of myself and the world around me. I'd be happy to discuss my work experience and/or personal projects further - feel free to reach out to me on LinkedIn or via email. My resume is also available if you'd like to know more about my education and work history. To view each project, click the title of the project itself (dark blue text).
-
+Another passion in my life is to follow a journey of continuous learning. I'd be happy to discuss my work experience and/or personal projects further - feel free to reach out to me on LinkedIn or via email. My resume is also available if you'd like to know more about my education and work history. 
 * [LinkedIn](https://www.linkedin.com/in/jordandavis0112/)
 
 * [Resume](https://github.com/JdGithub0112/Jordans-Portfolio/blob/main/JordanDavis_Resume_2023.pdf)
